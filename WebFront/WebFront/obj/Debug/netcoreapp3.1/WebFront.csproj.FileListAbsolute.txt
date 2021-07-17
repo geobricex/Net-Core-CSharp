@@ -1,0 +1,74 @@
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.exe
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.deps.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.runtimeconfig.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.runtimeconfig.dev.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.Views.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.Views.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.AssemblyReference.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.AssemblyInfoInputs.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.AssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.CoreCompileInputs.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorAssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\staticwebassets\WebFront.StaticWebAssets.Manifest.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\staticwebassets\WebFront.StaticWebAssets.xml
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebFront.styles.css
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.TagHelpers.input.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.TagHelpers.output.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorCoreGenerate.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorTargetAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorTargetAssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.Views.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.genruntimeconfig.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.CopyComplete
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.exe
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.deps.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.runtimeconfig.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.runtimeconfig.dev.json
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.Views.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\bin\Debug\netcoreapp3.1\WebFront.Views.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.AssemblyReference.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.AssemblyInfoInputs.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.AssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.CoreCompileInputs.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorAssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\staticwebassets\WebFront.StaticWebAssets.Manifest.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\staticwebassets\WebFront.StaticWebAssets.xml
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebFront.styles.css
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.TagHelpers.input.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.TagHelpers.output.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorCoreGenerate.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorTargetAssemblyInfo.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.RazorTargetAssemblyInfo.cs
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.Views.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.dll
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.pdb
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.genruntimeconfig.cache
+D:\OneDrive\UTEQ\8 OCTAVO SEMESTRE\APLICACIONES DISTRIBUIDAS\Semana 8\Ejemplo REST con C#\WebFront\WebFront\obj\Debug\netcoreapp3.1\WebFront.csproj.CopyComplete

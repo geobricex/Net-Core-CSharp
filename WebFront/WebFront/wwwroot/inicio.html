@@ -1,0 +1,55 @@
+﻿<html ng-app="app">
+<head>
+    <!-- CSS -->
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <!-- jQuery and JS bundle w/ Popper.js -->
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="lib/angular.js"></script>
+</head>
+<body ng-controller="inicioController">
+    <div class="container">
+        <h2>LISTA DE CLIENTES</h2>
+
+        <div class="row mb-3 mt-3">
+            <div class="col-4">
+                <button type="button" class="btn btn-primary" ng-click="IrFormularioCrear()">Crear Nuevo</button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <table id="tablesearch" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <!--<th scope="col">#</th>-->
+                            <th scope="col">Documento Identidad</th>
+                            <th scope="col">Nombres</th>
+                            <th scope="col">Telefono</th>
+                            <th scope="col">Correo</th>
+                            <th scope="col">Ciudad</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="datos in result">
+                            <!--<td>{{datos.IdUsuario}}</td>-->
+                            <td>{{datos.DocumentoIdentidad}}</td>
+                            <td>{{datos.Nombres}}</td>
+                            <td>{{datos.Telefono}}</td>
+                            <td>{{datos.Correo}}</td>
+                            <td>{{datos.Ciudad}}</td>
+                            <td>
+                                <button id="btnEditar" class="btn btn-success btn-sm mr-1 editar" value="{{datos.IdUsuario}}">Editar</button>
+                                <button id="btnEliminar" class="btn btn-danger btn-sm eliminar" value="{{datos.IdUsuario}}">Eliminar</button>
+                            </td>
+                        <tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="js/site.js"></script>
+    <script src="js/inicio.js"></script>
+</body>
+</html>
